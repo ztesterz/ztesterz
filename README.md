@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Naruto 2D Game Selector</h2>
+<h3 align="center" color="white">Georgia Springs Healthcare</h2>
 <div align="center" >  
 <a href='https://joshsermon.github.io/Healthcare/'>
 <img src="https://i.imgur.com/0beYB6A.gif" alt="Naruto Game" height="322px" width="100%" />
@@ -31,18 +31,18 @@
 <a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
+<a href="https://joshsermon.github.io/Healthcare/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=9b6647"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - A vanilla JavaScript application using sprites. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Dynamic landing page for GA Springs Healthcare that incoporates tips for staying healthy during pandemic.</p>
 </div>
 </td>
 <td width="50%">
 <h3 align="center" color="white">Samflix Movie Info.</h2>
 <div align="center" >  
 <a href='#'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="" height="322px" width="100%" />
+<img src="https://i.imgur.com/ykeA2i5.gif" alt="" height="322px" width="100%" />
 </a>
 <br>
 <br>
