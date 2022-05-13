@@ -65,13 +65,13 @@
 <table>
 <tr>
 <td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=JoshSermon&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=9b6647&sideNums=9b6647&sideLabels=DD4236&background=FFFFFF00&fire=9b6647&sideLabels=9b6647&currStreakLabel=9b6647">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=JoshSermon&bg_color=FFFFFF00&hide_border=true&text_color=9b6647&title_color=fa8b00&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=F8D866&line=9b6647&point=FFFFFF&hide_border=true&title_color=">
+<img src="https://activity-graph.herokuapp.com/graph?username=JoshSermon&bg_color=FFFFFF00&color=F8D866&line=9b6647&point=FFFFFF&hide_border=true&title_color=">
 <h2 align="center">Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
