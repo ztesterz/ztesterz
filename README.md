@@ -1,8 +1,8 @@
 ![alt text](https://github.com/ztesterz/ztesterz/blob/main/joshcover.png?raw=true)
 
 <p align="center">
-<a href="https://twitter.com/samsaryonjr"><img src="https://img.shields.io/badge/@samsaryonjr-D14836?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.codewars.com/users/ssaryonjr"><img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
+<a href="https://twitter.com/joshhitech"><img src="https://img.shields.io/badge/joshhitech-9b6647?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/channel/UCpGiesax_1z4BPvcGQDiRPw"><img src="https://img.shields.io/badge/Josh HiTech-9b6647?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 <a href="mailto:ssaryonjr@email.com"><img src="https://img.shields.io/badge/ssaryonjr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/sam-saryon/"><img src="https://img.shields.io/badge/sam_saryon-D14836?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://dev.to/USER"><img src="https://img.shields.io/badge/Download_Resume-D14836?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
