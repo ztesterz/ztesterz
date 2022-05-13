@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=9b6647"/>
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - A vanilla JavaScript application using sprites. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://ssjrmovieapi.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=9b6647"/>
 </a>
 </p>
 <p><strong>JavaScript, Swiper.js, OMDb API</strong> - Integrated multiple API's into an application that can search and return movie related data from user input</p>
@@ -71,7 +71,7 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=F8D866&line=D14836&point=fa8b00&hide_border=true&title_color=">
+<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=F8D866&line=9b6647&point=FFFFFF&hide_border=true&title_color=">
 <h2 align="center">Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
